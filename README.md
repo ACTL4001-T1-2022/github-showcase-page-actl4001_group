@@ -6,6 +6,52 @@ By Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan
   <img src="https://i.pinimg.com/originals/30/61/07/3061076a7e51c558bd9cc011fdf540fb.gif">
   </p>
 
+Executive Summary
+======================
+
+
+Objectives
+======================
+
+
+
+Team Selection
+======================
+
+
+
+Economic Impact
+======================
+
+
+
+
+Implementation Plan
+======================
+
+
+
+
+Key Assumptions
+======================
+
+
+Risk and Risk Mitigation Considerations
+======================
+
+
+Data and Data Limitations
+======================
+
+
+
+
+References
+======================
+
+
+
+
 # Actuarial Theory and Practice A
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
