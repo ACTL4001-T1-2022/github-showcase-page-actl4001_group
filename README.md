@@ -41,7 +41,7 @@ Once the players are ranked according to the performance metric predicted. The s
 This is because after appropriately integrating their salary to adjust their ranking. A new problem was found that certain players are far too expensive for their worth.  This resulted in two midfielders and a defender to be replaced by player’s who are more worth their salary with respect to their replaced players.
 The replaced players’ salaries are quite expensive with respect to the Rarita’s player respectively.. However, the replacement will lead to a 34.52 percentage point increase in the midfielder’s line as well as a 27.1 percentage point increase in the defensive performance of the team. By using the model referenced in the paper Maintaining Market Position: Team Performance, Revenue and Wage Expenditure in the English Premier League. The resulting team performance is expected to increase by 20.37 percentage points. This is worth the expensive salary increase due to the entire team being well within the initial budget of 995,000,000.
 
-<p align="center">
+<div align="center">
 | Name        | Position             |  Salary      |
 | ----------- | -------------------- | ------------ |
 | K. Kazlo    | Forward              | 2, 370, 000  |
@@ -56,7 +56,7 @@ The replaced players’ salaries are quite expensive with respect to the Rarita�
 | R. Namutebi | Defender             | 6, 380, 000  |
 | U. Nyeko    | Goalkeeper           | 5, 600, 000  |
 
-  </p>
+  </div>
 
 The players were selected and reassessed to identify and improve any area of improvement. After reassessing the whole team again, the historical performance of such players. The team was built to better understand their projected performance in the next five and ten years. Both projective performances and objectives were summarised in the objectives section above.
           
