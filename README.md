@@ -32,11 +32,34 @@ We derived a performance metric across all players using the historical data of 
  
 After the four generalized linear models are performed in best predicting our performance metric. The players I ranked from best to worst according to the player’s predicted score. It is clear from the figure below why the models agree that a player aged 20-25 is best to be selected due to their performance being at peak at around age 27. Moreover, the figure below shows that the salary and performance are not correlated, primarily due to the non-linear relationship between salary and score. Hence, it is financially efficient to select younger players who have salaries that are lower.
 
-<p align="center>
+<p align="center">
   <img src="">
-  <img src="">   
   </p>
 
+The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
+Once the players are ranked according to the performance metric predicted. The salary for each player is too expensive for the 995,000,000 budgets. Hence, national Rarita players are considered more highly and reassessed under each player’s performance divided by their annual salary. Therefore, when considering the budget constraint, the models recommend selecting a Rarita player of much more worth since these players have a 74.32% lower salary on average but perform at 40.32% as well according to the developed scoring metric. Resulting, in the player being much more worth their salary. Once all the players are ranked there are only three selected  players who are not from Rarita. 
+This is because after appropriately integrating their salary to adjust their ranking. A new problem was found that certain players are far too expensive for their worth.  This resulted in two midfielders and a defender to be replaced by player’s who are more worth their salary with respect to their replaced players.
+The replaced players’ salaries are quite expensive with respect to the Rarita’s player respectively.. However, the replacement will lead to a 34.52 percentage point increase in the midfielder’s line as well as a 27.1 percentage point increase in the defensive performance of the team. By using the model referenced in the paper Maintaining Market Position: Team Performance, Revenue and Wage Expenditure in the English Premier League. The resulting team performance is expected to increase by 20.37 percentage points. This is worth the expensive salary increase due to the entire team being well within the initial budget of 995,000,000.
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
+| Name        | Position             |  Salary      |
+| ----------- | -------------------- | ------------ |
+| K. Kazlo    | Forward              | 2, 370, 000  |
+| H. Mubaiwa  | Forward              | 1, 580, 000  |
+| F. Gan      | Midfielder           | 4, 380, 000  |
+| G. Jankowski| Midfielder           | 9, 020, 000  |
+| - E. Ngoma    | Midfielder           | 1, 340, 000  |
+|  - L. Lubega   | Midfielder & Foward  | 24, 740, 000 |
+| Q.Sano      | Defender             | 7, 200, 000  |
+|  - X. Nazari   | Defender & Forward   | 4, 160, 000  |
+| K. Nalwang  | Defender & Midfielder| 23, 900, 000 |
+| R. Namutebi | Defender             | 6, 380, 000  |
+| U. Nyeko    | Goalkeeper           | 5, 600, 000  |
+
+             
+          
+             
 Economic Impact
 ======================
 
