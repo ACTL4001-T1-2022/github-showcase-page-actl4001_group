@@ -28,7 +28,14 @@ The aim of the report was to help the country of Rarita select a team of players
 Team Selection
 ======================
 
+We derived a performance metric across all players using the historical data of 2020 and 2021 tournament results. This performance metric was a calculation using the weighted average of the team’s performance whilst also incorporating the effectiveness of each player’s position on the field. The overall model is constructed from the work, Money Talks: Team Variables and Player Positions that Most Influence the Market Value of Professional Male Footballers in Europe by six academics primarily from the University of Madrid: José Luis Felipe, Alvaro Fernandez-Luna and Pablo Burillo. The team selection was constructed on the foundation set in the paper but selecting each player by each position. The team constructed for the country of Rarita was modeled using a generalized linear model in order to understand the predictors which compose a strong player for each position .  The team formation is 4-4-2, meaning there will be four defenders, four midfielders and two forwards.
+ 
+After the four generalized linear models are performed in best predicting our performance metric. The players I ranked from best to worst according to the player’s predicted score. It is clear from the figure below why the models agree that a player aged 20-25 is best to be selected due to their performance being at peak at around age 27. Moreover, the figure below shows that the salary and performance are not correlated, primarily due to the non-linear relationship between salary and score. Hence, it is financially efficient to select younger players who have salaries that are lower.
 
+<p align="center>
+  <img src="">
+  <img src="">   
+  </p>
 
 Economic Impact
 ======================
