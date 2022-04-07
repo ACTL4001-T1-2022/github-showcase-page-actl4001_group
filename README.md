@@ -1,3 +1,11 @@
+SOA Challenge: ACTL4001 Group Showcase
+======================
+By Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/30/61/07/3061076a7e51c558bd9cc011fdf540fb.gif">
+  </p>
+
 # Actuarial Theory and Practice A
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
