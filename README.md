@@ -6,12 +6,29 @@ By Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan
   <img src="https://i.pinimg.com/originals/30/61/07/3061076a7e51c558bd9cc011fdf540fb.gif">
   </p>
 
+Table of Contents
+======================
+---
+- [Executive Summary](#executive-summary)
+- [Objectives](#objectives)
+- [Team Selection](#team-selection)
+- [Economic Impact](#economic-impact)
+- [Key Assumptions](#key-assumptions)
+- [Risk and Risk Mitigation Considerations](#risk-and-risk-mitigation-considerations)
+- [Data and Data Limitations](#data-and-data-limitations)
+- [References](#references)
+- [Appendix](#appendix)
+---
+
+
 Executive Summary
 ======================
 
 The report presents how we plan to help the Commissioner of Sport for Rarita build the national football team as well as provide detail to its competitiveness and positive impact on the economy. The team selection and implementation plan is set out by an Actuarial control and business cycle plan. The metrics used for assessment and the impact described in the economy are highlighted and continuously monitored the results to identify and define new problems uncovered in our analysis.
 
 The report summarises the two team competitiveness objectives and thoroughly outlines the actuarial and business implementation plan used for the team and economic evaluation respectively. The assumptions and limitations that come from the judgement of the team selection and its impact on the economy are summarised to present the constraint and unresolved constraints. 
+
+
 
 
 Objectives
