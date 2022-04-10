@@ -198,26 +198,26 @@ Appendix
 ## Exhibit A: Showing a sample of negative values for goals
 
 <p align="center">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitA.png">
+  <img src = "./ExhibitA.png" width = 60%>
   </p>
 
 ## Exhibit B: Rarita Economic Analysis
 
 <p align="center">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitB.png">
+  <img src = "./ExhibitB.png">
   </p>
   
 ## Exhibit C: Economic Analysis of Competing Team Countries
 
 <p align="center">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitC.png">
+  <img src = "./ExhibitC.png">
   </p>
 
 ## Exhibit D: Rarita Historic Spot Rates and Inflation Rates
 
 <p align="center">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitDa.png">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitDb.png">
+  <img src = "./ExhibitDa.png">
+  <img src = "./ExhibitDb.png">
   </p>
 
 ## Exhibit E: R Code
