@@ -29,8 +29,6 @@ The report presents how we plan to help the Commissioner of Sport for Rarita bui
 The report summarises the two team competitiveness objectives and thoroughly outlines the actuarial and business implementation plan used for the team and economic evaluation respectively. The assumptions and limitations that come from the judgement of the team selection and its impact on the economy are summarised to present the constraint and unresolved constraints. 
 
 
-
-
 Objectives
 ======================
 
@@ -38,8 +36,6 @@ The aim of the report was to help the country of Rarita select a team of players
 
  - The following team is projected to have an average chance 85.32% of achieving in the top 10 of the tournament within the next five years. The team’s chance of achieving in the top ten is most likely to occur in year five of them being together, with a probability of 88.74%.
  - The team also on 35.08% average have a probability of ever winning the championship in the next ten years. This estimate is mostly likely to occur in seven years times, which gives them a chance of 43.05% of occur with a standard deviation  3.46%.
-
-
 
 
 Team Selection
@@ -107,6 +103,7 @@ Rarita’s healthcare spending per capita has experienced a historic growth aver
 ## Conversion Rates
 The international visibility that entering the FSA offers, produces export and foreign investment opportunities, which can ultimately strengthen the Doubloon (∂) in the long run. Historic data reveals that the Doubloon has depreciated on average by 0.20% per year against the Euro, however through the implementation of a competitive team in the long run an appreciation can occur. 
 
+
 Implementation Plan
 ======================
 
@@ -121,6 +118,7 @@ Reinvestment included:
  - coaching
  - injury programmes
 
+
 Key Assumptions
 ======================
 
@@ -129,6 +127,7 @@ Key Assumptions
  - Similarly, the “score” metric used primary statistics for each role. For example, for midfielders passing statistics were the base for our “score” metric.
 ## Age Projections of Player’s Performance
  - When projecting future performance of players, it was found based on our “score” that with age, performance decreased. Hence this was incorporated into the model for future performance projections. The performance projection of the team is primarily based on how well each player is projected to improve with age as well as integrating the work from paper, Money Talks: Team Variables and Player Positions that Most Influence the Market Value of Professional Male Footballers in Europe.
+
 
 Risk and Risk Mitigation Considerations
 ======================
@@ -168,6 +167,7 @@ Reputation risk will reduce revenue (ticket sales) and cause financial damage. H
  - A strong performance means the team needs to be mindful of overspending, as revenue increases and expenses will also increase (player wages). 
  - The national soccer team needs to develop strategies to remain solvent and have prudential oversight to reduce financial damage.
 
+
 Data and Data Limitations
 ======================
 
@@ -188,6 +188,16 @@ References
  - The Investopedia Team, reviewed by Kelly, R. C., Aug. 2021, Inflation Targeting [online]. Available at: 
 Inflation Targeting Definition (investopedia.com) [Accessed 20 Marc. 2022].
  - Whelan, A., 2022. How Can Football Clubs Mitigate Reputational Risks When Evaluating Sponsors?. [online] Duff & Phelps. Available at: <https://www.kroll.com/en/insights/publications/sport/football-clubs-mitigate-reputational-risks> [Accessed 27 March 2022].
+
+
+Appendix
+======================
+
+ - Marc
+
+
+
+
 
 # Actuarial Theory and Practice A
 
