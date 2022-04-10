@@ -56,6 +56,10 @@ The replaced playersâ€™ salaries are quite expensive with respect to the Raritaâ
 | R. Namutebi | Defender             | 6, 380, 000  |
 | U. Nyeko    | Goalkeeper           | 5, 600, 000  |
 
+<p align="center">
+  <img src="">
+  **_Figure 2_** Selected Players
+  </p>
 
 The players were selected and reassessed to identify and improve any area of improvement. After reassessing the whole team again, the historical performance of such players. The team was built to better understand their projected performance in the next five and ten years. Both projective performances and objectives were summarised in the objectives section above.
           
