@@ -1,6 +1,6 @@
 ---
-title: "Assignment 2 Final"
-author: 'Markos Abdallah #4646 8072'
+title: "Assignment Code"
+author: 'ACTL4001 Group #4646 8072'
 date: "21/10/2021"
 output:
   word_document: default
