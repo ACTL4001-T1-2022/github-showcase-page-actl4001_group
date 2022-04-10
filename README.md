@@ -2,6 +2,8 @@ Actuarial Theory and Practice A - SOA Challenge: ACTL4001 Group Showcase
 ======================
 By Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan
 
+[2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/30/61/07/3061076a7e51c558bd9cc011fdf540fb.gif">
   </p>
@@ -193,31 +195,36 @@ Inflation Targeting Definition (investopedia.com) [Accessed 20 Marc. 2022].
 Appendix
 ======================
 
- - Marc
+## Exhibit A: Showing a sample of negative values for goals
+
+<p align="center">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitA.png">
+  </p>
+
+## Exhibit B: Rarita Economic Analysis
+
+<p align="center">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitB.png">
+  </p>
+  
+## Exhibit C: Economic Analysis of Competing Team Countries
+
+<p align="center">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitC.png">
+  </p>
+
+## Exhibit D: Rarita Historic Spot Rates and Inflation Rates
+
+<p align="center">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitDa.png">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/85497d6de52d17bec457e188b684338f9ebd3d5a/ExhibitDb.png">
+  </p>
+
+## Exhibit E: R Code
+
+[R code](sample-data-clean.ipynb)
 
 
 
 
-
-# Actuarial Theory and Practice A
-
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
-
----
-
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
