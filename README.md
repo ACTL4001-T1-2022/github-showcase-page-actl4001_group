@@ -33,7 +33,7 @@ We derived a performance metric across all players using the historical data of 
 After the four generalized linear models are performed in best predicting our performance metric. The players I ranked from best to worst according to the player’s predicted score. It is clear from the figure below why the models agree that a player aged 20-25 is best to be selected due to their performance being at peak at around age 27. Moreover, the figure below shows that the salary and performance are not correlated, primarily due to the non-linear relationship between salary and score. Hence, it is financially efficient to select younger players who have salaries that are lower.
 
 <p align="center">
-  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/65a03b527df2a85291bb28cab40030eedf132314/Figure%201.png">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure1.png">
   </p>
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
@@ -70,7 +70,7 @@ It should be noted that although the short-term impact may be minimal, the long-
 Rarita’s historic GDP per capita over the past 10 years undergoes significant variability from ∂ 18,292 in 2011 to ∂ 23,863 in 2020. This represents a 3.05% average growth each year, however evidently other countries performing in all levels of competitive football, with similar GDP per capita (i.e., Galamily, Greri Landmoslands, Manlisgamncent, Nganion and Nkasland Cronestan), have a higher average growth rate of 3.738%. This 0.687% higher GDP per capita growth rate indicates the positive impact the FSA can have on Rarita’s GDP. Although, through the implementation plan, the short-term economic impact may not be pronounced, the long-term impact is still promising. The economic impact on Rarita’s GDP is also dependent on other factors such as the countries performance and whether the country hosts the games. In fact, since 1990 the winner of the Soccer World Cup has witnessed an
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure3.png">
   </p>
   
 average increase of 1.6% in GDP over the previous years, followed by a small contraction in the year after (Sands, 2018). Thus, by employing a conservative 0.687% average growth increase, the following GDP per capita projection for Rarita is obtained. 
