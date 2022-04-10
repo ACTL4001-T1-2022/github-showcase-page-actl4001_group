@@ -232,7 +232,7 @@ Appendix
 
 ## Exhibit E: R Code
 
-[R code](sample-data-clean.ipynb)
+[R code](Exhibit E.Rmd)
 
 
 
