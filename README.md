@@ -35,6 +35,7 @@ After the four generalized linear models are performed in best predicting our pe
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure1.png">
   </p>
+
 **_Figure 1_** Performance at different ages and salary
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
@@ -55,6 +56,7 @@ The replaced players’ salaries are quite expensive with respect to the Rarita�
 | K. Nalwang  | Defender & Midfielder| 23, 900, 000 |
 | R. Namutebi | Defender             | 6, 380, 000  |
 | U. Nyeko    | Goalkeeper           | 5, 600, 000  |
+
 **_Figure 2_** Selected Players
 
 The players were selected and reassessed to identify and improve any area of improvement. After reassessing the whole team again, the historical performance of such players. The team was built to better understand their projected performance in the next five and ten years. Both projective performances and objectives were summarised in the objectives section above.
@@ -73,6 +75,7 @@ Rarita’s historic GDP per capita over the past 10 years undergoes significant 
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure3.png">
   </p>
+
 **_Figure 3_** Projected GDP Impact
 
 The above graph depicts the positive impact the FSA can have, whereby in actuality more variability will be witnessed. 
