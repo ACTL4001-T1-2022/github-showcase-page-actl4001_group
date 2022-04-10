@@ -1,6 +1,6 @@
 Actuarial Theory and Practice A - SOA Challenge: ACTL4001 Group Showcase
 ======================
-By Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan
+**By: Albert Nguyen, Dellushan Rajkumar, Jaime Rahme, Manraj Chohan**
 
 [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)
 
