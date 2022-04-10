@@ -208,7 +208,7 @@ Appendix
 ## Exhibit A: Showing a sample of negative values for goals
 
 <p align="center">
-  <img src = "./ExhibitA.png" width = 40%>
+  <img src = "./ExhibitA.png">
   </p>
 
 ## Exhibit B: Rarita Economic Analysis
