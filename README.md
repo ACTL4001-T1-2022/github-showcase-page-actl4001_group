@@ -33,9 +33,8 @@ We derived a performance metric across all players using the historical data of 
 After the four generalized linear models are performed in best predicting our performance metric. The players I ranked from best to worst according to the player’s predicted score. It is clear from the figure below why the models agree that a player aged 20-25 is best to be selected due to their performance being at peak at around age 27. Moreover, the figure below shows that the salary and performance are not correlated, primarily due to the non-linear relationship between salary and score. Hence, it is financially efficient to select younger players who have salaries that are lower.
 
 <p align="center">
-  <img src="">
+  <img src="Figure1.png">
   </p>
-[image](Figure1.png)
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
 Once the players are ranked according to the performance metric predicted. The salary for each player is too expensive for the 995,000,000 budgets. Hence, national Rarita players are considered more highly and reassessed under each player’s performance divided by their annual salary. Therefore, when considering the budget constraint, the models recommend selecting a Rarita player of much more worth since these players have a 74.32% lower salary on average but perform at 40.32% as well according to the developed scoring metric. Resulting, in the player being much more worth their salary. Once all the players are ranked there are only three selected  players who are not from Rarita. 
