@@ -157,19 +157,16 @@ Risk and Risk Mitigation Considerations
 
 ### Reputation Risk
 Reputation risk will reduce revenue (ticket sales) and cause financial damage. However, it can be reduced by having adequate facilities, appropriate sponsors and well-behaved players.
-
 #### Facilities
  - Stadium design and pitch maintenance that meets FSA quality guidelines
  - Adequate training equipment 
  - Injury safety practices
  - Limited facilities reduces the appeal of playing for Rarita, making team selection restricted and thus difficult for Rarity’s success in RSA
  - Investing in adequate facilities will reduce reputation risk
-
 #### Sponsors
  - Sponsors need to follow ethical and behavioural practices
  - Selecting the wrong sponsors will damage Rarita’s reputation and discourage supporters, reducing ticket sales. It may cause other sponsors to also withdraw
  - Important to perform proper due diligence while selecting sponsors and to maximise revenue
-
 #### Players
  - Risk of choosing players that have a criminal history that can damage Rarity’s reputation
  - Risk of player misconduct off the field
