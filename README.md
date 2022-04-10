@@ -34,8 +34,8 @@ After the four generalized linear models are performed in best predicting our pe
 
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure1.png">
-  **_Figure 1_** Performance at different ages and salary
   </p>
+**_Figure 1_** Performance at different ages and salary
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
 Once the players are ranked according to the performance metric predicted. The salary for each player is too expensive for the 995,000,000 budgets. Hence, national Rarita players are considered more highly and reassessed under each player’s performance divided by their annual salary. Therefore, when considering the budget constraint, the models recommend selecting a Rarita player of much more worth since these players have a 74.32% lower salary on average but perform at 40.32% as well according to the developed scoring metric. Resulting, in the player being much more worth their salary. Once all the players are ranked there are only three selected  players who are not from Rarita. 
@@ -55,11 +55,7 @@ The replaced players’ salaries are quite expensive with respect to the Rarita�
 | K. Nalwang  | Defender & Midfielder| 23, 900, 000 |
 | R. Namutebi | Defender             | 6, 380, 000  |
 | U. Nyeko    | Goalkeeper           | 5, 600, 000  |
-
-<p align="center">
-  <img src="">
-  **_Figure 2_** Selected Players
-  </p>
+**_Figure 2_** Selected Players
 
 The players were selected and reassessed to identify and improve any area of improvement. After reassessing the whole team again, the historical performance of such players. The team was built to better understand their projected performance in the next five and ten years. Both projective performances and objectives were summarised in the objectives section above.
           
@@ -72,13 +68,13 @@ Establishing a qualifying competitive team within the international FSA league c
 It should be noted that although the short-term impact may be minimal, the long-term economic impact on multiple indices is more noticeable. This is attributable to novelty effects (Maennig, 2007) brought on through new stadiums, which as an investment generates ticket revenue, the feel-good effect in won games, which stimulates increased consumption and improved productivity and efficiency across all industries, and finally an enhanced national image, which facilitates increased international trade, foreign investment in Rarita, and future tourism. Evidently, these impacts will be most prominent in the tourism, entertainment, and accommodation industries and will be more pronounced in population dense provinces, in particular West Rarita and Central Rarita.
 
 ## Gross Domestic Product (GDP)
-Rarita’s historic GDP per capita over the past 10 years undergoes significant variability from ∂ 18,292 in 2011 to ∂ 23,863 in 2020. This represents a 3.05% average growth each year, however evidently other countries performing in all levels of competitive football, with similar GDP per capita (i.e., Galamily, Greri Landmoslands, Manlisgamncent, Nganion and Nkasland Cronestan), have a higher average growth rate of 3.738%. This 0.687% higher GDP per capita growth rate indicates the positive impact the FSA can have on Rarita’s GDP. Although, through the implementation plan, the short-term economic impact may not be pronounced, the long-term impact is still promising. The economic impact on Rarita’s GDP is also dependent on other factors such as the countries performance and whether the country hosts the games. In fact, since 1990 the winner of the Soccer World Cup has witnessed an
+Rarita’s historic GDP per capita over the past 10 years undergoes significant variability from ∂ 18,292 in 2011 to ∂ 23,863 in 2020. This represents a 3.05% average growth each year, however evidently other countries performing in all levels of competitive football, with similar GDP per capita (i.e., Galamily, Greri Landmoslands, Manlisgamncent, Nganion and Nkasland Cronestan), have a higher average growth rate of 3.738%. This 0.687% higher GDP per capita growth rate indicates the positive impact the FSA can have on Rarita’s GDP. Although, through the implementation plan, the short-term economic impact may not be pronounced, the long-term impact is still promising. The economic impact on Rarita’s GDP is also dependent on other factors such as the countries performance and whether the country hosts the games. In fact, since 1990 the winner of the Soccer World Cup has witnessed an average increase of 1.6% in GDP over the previous years, followed by a small contraction in the year after (Sands, 2018). Thus, by employing a conservative 0.687% average growth increase, the following GDP per capita projection for Rarita is obtained. 
 
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure3.png">
   </p>
-  
-average increase of 1.6% in GDP over the previous years, followed by a small contraction in the year after (Sands, 2018). Thus, by employing a conservative 0.687% average growth increase, the following GDP per capita projection for Rarita is obtained. 
+**_Figure 3_** Projected GDP Impact
+
 The above graph depicts the positive impact the FSA can have, whereby in actuality more variability will be witnessed. 
 ## Gross National Income (GNI)
 Like Rarita’s GDP, its GNI per capita, which currently holds a historic average growth of 2.53% per year, will also witness a positive long-term impact characterised by year-on-year variability. This is largely attributable to the investment opportunities available through Rarita’s international visibility. 
