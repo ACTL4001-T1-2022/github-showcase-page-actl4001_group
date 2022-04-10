@@ -94,14 +94,19 @@ Rarita’s historic GDP per capita over the past 10 years undergoes significant 
 **_Figure 3_** Projected GDP Impact
 
 The above graph depicts the positive impact the FSA can have, whereby in actuality more variability will be witnessed. 
+
 ## Gross National Income (GNI)
 Like Rarita’s GDP, its GNI per capita, which currently holds a historic average growth of 2.53% per year, will also witness a positive long-term impact characterised by year-on-year variability. This is largely attributable to the investment opportunities available through Rarita’s international visibility. 
+
 ## Spot Rates & Inflation Rates
 Given that Rarita’s interest rates and inflation is largely dependent on its fiscal and monetary policies as well as the country's general economic condition, the implementation of a competitive team will have a nil or negligible impact. 
+
 ## Household Saving
 Since consumption during game related events will increase, it is expected that savings would decrease. However, given that for domestic residents this expenditure will only switch during matches and may even be compensated with lower expenditure afterwards, the impact on household savings will be insignificant. As such the historic household savings average of 8.40% will most likely hold. 
+
 ## Healthcare spending
-Rarita’s healthcare spending per capita has experienced a historic growth averaging 2.17% per year with higher expenditure in East Rarita. However, given that football is proven to promote inclusivity within communities, findings reveal that they foster positive mental health consequences, and public engagement brought on by it also improves physical health, reducing risks of diabetes and heart disease (Campelli, 2021). Thus, the positive health consequences can lead to reduced healthcare spending in the long-term and will be especially prominent in East Rarita. 
+Rarita’s healthcare spending per capita has experienced a historic growth averaging 2.17% per year with higher expenditure in East Rarita. However, given that football is proven to promote inclusivity within communities, findings reveal that they foster positive mental health consequences, and public engagement brought on by it also improves physical health, reducing risks of diabetes and heart disease (Campelli, 2021). Thus, the positive health consequences can lead to reduced healthcare spending in the long-term and will be especially prominent in East Rarita.
+
 ## Conversion Rates
 The international visibility that entering the FSA offers, produces export and foreign investment opportunities, which can ultimately strengthen the Doubloon (∂) in the long run. Historic data reveals that the Doubloon has depreciated on average by 0.20% per year against the Euro, however through the implementation of a competitive team in the long run an appreciation can occur. 
 
@@ -127,6 +132,7 @@ Key Assumptions
 ## Player Position Metric Excluded
  - When building a model used for analysis, we assumed that goalkeepers do not have the role of shooting or scoring goals. Therefore the data used in the model was filtered such that the metrics of goal scorers was used to analyze suitable players for the team.
  - Similarly, the “score” metric used primary statistics for each role. For example, for midfielders passing statistics were the base for our “score” metric.
+
 ## Age Projections of Player’s Performance
  - When projecting future performance of players, it was found based on our “score” that with age, performance decreased. Hence this was incorporated into the model for future performance projections. The performance projection of the team is primarily based on how well each player is projected to improve with age as well as integrating the work from paper, Money Talks: Team Variables and Player Positions that Most Influence the Market Value of Professional Male Footballers in Europe.
 
@@ -135,34 +141,41 @@ Risk and Risk Mitigation Considerations
 ======================
 
 ## Qualitative Risks
+
 ### Injury Risk
  - Selecting players who get injured will reduce the competitiveness of the national soccer team, making it difficult for Rarita to perform well in the FSA
  - Older players have a higher risk of injury, so Rarita can restrict team selection beyond a certain age to minimise this risk. 
  - Some players may be more injury prone than others so it is important to perform thorough medical assessments.
  - An injury prevention program and specific protocols should be enforced to minimise injury risk
+
 ### Economic Risk
  - Low economic development and growth in Rarita will reduce global visibility of the national soccer team (decreased opportunities for investment and job creation)
  - Economic uncertainty will increase household savings across the country, meaning the household consumption and GDP will remain low. 
  - Appreciation of Doubloon against foreign currencies will steer away tourists due to their foreign currency being worth less (revenue will be less than projected)
  - Failure to qualify for the FSA will further reinforce economic risk as poor performances will stifle the growth of Rarita’s GDP (less interest, tourism and investment).
  - Economic risk can be monitored by looking at the national soccer team’s contribution to GDP and its growth per capita.
+
 ### Reputation Risk
 Reputation risk will reduce revenue (ticket sales) and cause financial damage. However, it can be reduced by having adequate facilities, appropriate sponsors and well-behaved players.
+
 #### Facilities
  - Stadium design and pitch maintenance that meets FSA quality guidelines
  - Adequate training equipment 
  - Injury safety practices
  - Limited facilities reduces the appeal of playing for Rarita, making team selection restricted and thus difficult for Rarity’s success in RSA
  - Investing in adequate facilities will reduce reputation risk
+
 #### Sponsors
  - Sponsors need to follow ethical and behavioural practices
  - Selecting the wrong sponsors will damage Rarita’s reputation and discourage supporters, reducing ticket sales. It may cause other sponsors to also withdraw
  - Important to perform proper due diligence while selecting sponsors and to maximise revenue
+
 #### Players
  - Risk of choosing players that have a criminal history that can damage Rarity’s reputation
  - Risk of player misconduct off the field
  - Risk can be mitigated by Including bonuses for good behaviour for players that previously caused misconduct
  - Avoid signing any players with criminal history/illegal activity
+
 ### Finance risk
  - Risk of insolvency if expenses are unable to be covered with revenues. 
  - Poor performance in the RSA will reduce the revenue generated and create finance risk. 
