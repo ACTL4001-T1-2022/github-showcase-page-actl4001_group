@@ -33,7 +33,7 @@ We derived a performance metric across all players using the historical data of 
 After the four generalized linear models are performed in best predicting our performance metric. The players I ranked from best to worst according to the player’s predicted score. It is clear from the figure below why the models agree that a player aged 20-25 is best to be selected due to their performance being at peak at around age 27. Moreover, the figure below shows that the salary and performance are not correlated, primarily due to the non-linear relationship between salary and score. Hence, it is financially efficient to select younger players who have salaries that are lower.
 
 <p align="center">
-  <img src="Figure1.png">
+  <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/65a03b527df2a85291bb28cab40030eedf132314/Figure%201.png">
   </p>
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
