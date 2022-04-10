@@ -232,7 +232,7 @@ Appendix
 
 ## Exhibit E: R Code
 
-[R code](Exhibit E.Rmd)
+[R code](ExhibitE.Rmd)
 
 
 
