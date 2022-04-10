@@ -49,7 +49,11 @@ After the four generalized linear models are performed in best predicting our pe
 
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure1.png">
+  <![My Image](Figure1.png)>
   </p>
+  
+![Figure1](Figure1.png)
+
 
 **_Figure 1_** Performance at different ages and salary
 
