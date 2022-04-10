@@ -35,6 +35,7 @@ After the four generalized linear models are performed in best predicting our pe
 <p align="center">
   <img src="">
   </p>
+[image](Figure1)
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
 Once the players are ranked according to the performance metric predicted. The salary for each player is too expensive for the 995,000,000 budgets. Hence, national Rarita players are considered more highly and reassessed under each player’s performance divided by their annual salary. Therefore, when considering the budget constraint, the models recommend selecting a Rarita player of much more worth since these players have a 74.32% lower salary on average but perform at 40.32% as well according to the developed scoring metric. Resulting, in the player being much more worth their salary. Once all the players are ranked there are only three selected  players who are not from Rarita. 
