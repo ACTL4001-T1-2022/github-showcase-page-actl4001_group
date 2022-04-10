@@ -34,6 +34,7 @@ After the four generalized linear models are performed in best predicting our pe
 
 <p align="center">
   <img src="https://github.com/ACTL4001-T1-2022/github-showcase-page-actl4001_group/blob/895d98a16a38e9b8ac10a3417824ceab833b709d/Figure1.png">
+  <**_Figure 1_** Performance at different ages and salary>
   </p>
 
 The graph above should be the red and blue lines for the 2020 and 2021 tournament performances. The performance for each position is predicted by incorporating the logistic linking function to maximize the person’s probability of achieving a championship.
