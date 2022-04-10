@@ -1,0 +1,215 @@
+---
+title: "Assignment 2 Final"
+author: 'Markos Abdallah #4646 8072'
+date: "21/10/2021"
+output:
+  word_document: default
+  pdf_document: default
+  bookdown::word_document2: default
+urlcolor: blue
+geometry: margin = 1.4cm
+fontsize: 8pt
+---
+
+
+\newpage 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1
+
+```{r package, echo = TRUE, include = FALSE, message = FALSE, warning = FALSE, tidy = TRUE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+#install.packages("pacman")
+pacman::p_load("tinytex", "tidyverse", "MASS", "pscl", "boot", "ggplot2", "ggmap","GGally","gridExtra", "devtools", "ggfortify", "caret", "pROC", "formatR", "knitr", "kableExtra", "data.table", "psych", "corrplot", "ie2misc", "readxl") ## A function that loads packages, and installs packages if not yet installled.
+
+setwd("C:/Users/jamie/Desktop/ACTL4001")
+
+
+player_shooting_data <- read_excel("2022-student-research-case-study-player-data.xlsx", sheet = 2)
+player_passing_data <- read_excel("2022-student-research-case-study-player-data.xlsx", sheet = 3)
+player_defense_data <- read_excel("2022-student-research-case-study-player-data.xlsx", sheet = 4)
+player_goalkeeping_data <- read_excel("2022-student-research-case-study-player-data.xlsx", sheet = 5)
+
+player_shooting_data <- player_shooting_data[c(1:28)]
+
+player_shooting_data <- player_shooting_data %>%
+  drop_na()
+
+smp_size <- floor(0.75 * nrow(player_shooting_data))
+
+set.seed(123)
+train_ind <- sample(seq_len(nrow(player_shooting_data)), size = smp_size)
+
+train <- player_shooting_data[train_ind, -c(1, 2, 4)]
+test <- player_shooting_data[-train_ind, -c(1, 2, 4)]
+
+model1 <- glm(Score ~ ., data = train, family = binomial)
+
+summary(model1)$coef
+
+player_passing_data <- player_passing_data[c(1:33)]
+
+player_passing_data <- player_passing_data %>%
+  drop_na()
+
+smp_size <- floor(0.75 * nrow(player_passing_data))
+
+set.seed(123)
+train_ind <- sample(seq_len(nrow(player_passing_data)), size = smp_size)
+
+train <- player_passing_data[train_ind, -c(1, 2, 4)]
+test <- player_passing_data[-train_ind, -c(1, 2, 4)]
+
+model2 <- glm(Score ~ ., data = train, family = binomial)
+
+summary(model2)$coef
+
+
+player_defense_data <- player_defense_data[c(1:34)]
+
+player_defense_data <- player_defense_data %>%
+  drop_na()
+
+smp_size <- floor(0.75 * nrow(player_defense_data))
+
+set.seed(123)
+train_ind <- sample(seq_len(nrow(player_defense_data)), size = smp_size)
+
+train <- player_defense_data[train_ind, -c(1, 2, 4)]
+test <- player_defense_data[-train_ind, -c(1, 2, 4)]
+
+model3 <- glm(Score ~ ., data = train, family = binomial)
+
+summary(model3)$coef
+
+player_goalkeeping_data <- player_goalkeeping_data[c(1:29)]
+
+player_goalkeeping_data <- player_goalkeeping_data %>%
+  drop_na()
+
+smp_size <- floor(0.75 * nrow(player_goalkeeping_data))
+
+set.seed(123)
+train_ind <- sample(seq_len(nrow(player_goalkeeping_data)), size = smp_size)
+
+train <- player_goalkeeping_data[train_ind, -c(1, 3)]
+test <- player_goalkeeping_data[-train_ind, -c(1, 3)]
+
+model4 <- glm(Score ~ ., data = train, family = binomial)
+
+summary(model4)$coef
+
+ggplot(data = player_shooting_data) +
+    aes(x = Gls, y = Score, colour = as.factor(Year)) + 
+    geom_smooth() +
+    ggtitle("Score vs. Goal Scored") + 
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Salary, y = Score) + 
+    geom_smooth() +
+    ggtitle("Score vs. Annual Salary") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Age, y = Score, color = as.factor(Year)) + 
+    geom_smooth() +
+    ggtitle("Score vs. Player Agem (grouped by year") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Salary, y = Gls, color = as.factor(Year)) + 
+    geom_smooth() +
+    ggtitle("Goals Score vs. Salary (grouped by year)") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Salary, y = Score) + 
+    geom_smooth() +
+    ggtitle("Score vs. Salary") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Born, y = Score) + 
+    geom_smooth() +
+    ggtitle("Score vs. Born") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Born, y = Score, color = as.factor(League)) + 
+    geom_smooth() +
+    ggtitle("Score vs. Goal Scored (grouped by League)") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Born) + 
+    geom_histogram() +
+    ggtitle("Birth year frequency") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Age) + 
+    geom_histogram() +
+    ggtitle("Age Frequency Histogram") +
+    theme_minimal()
+
+ggplot(data = player_shooting_data) +
+    aes(x = Gls, color = as.factor(League)) + 
+    ggtitle("Goals Scored Frequency Histogram (grouped by League)") +
+    geom_histogram() +
+    theme_minimal()
+
+
+```
+
+
+
+ (grouped by year
+
+
+```{r}
+
+ggplot(data = player_shooting_data) +
+    aes(x = Age, y = Score, color = as.factor(Year)) + 
+    geom_smooth() +
+    ggtitle("Score vs. Age (for each year)") +
+    theme_minimal()
+
+
+```
+
+```{r}
+
+ggplot(data = player_shooting_data) +
+    aes(x = Score, y = Salary) + 
+    geom_smooth() +
+    ggtitle("Score vs. Salary") + 
+    theme_minimal()
+
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
